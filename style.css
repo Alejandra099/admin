@@ -40,7 +40,7 @@ header {
     min-width: 320px;
     height: 334px;
     text-align: center;
-    background: #F7931A;
+    background: var(--bitcoin-orange);
 }
 
 header img {
